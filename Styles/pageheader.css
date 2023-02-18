@@ -1,0 +1,23 @@
+.PageHeader {
+  text-align: center;
+}
+
+h1 {
+  color: var(--title-color);
+  margin-bottom: 36px;
+  font-size: 3em;
+  line-height: 60px;
+  font-weight: 600;
+}
+
+h4 {
+  margin-bottom: 24px;
+  margin-top: 3.5em;
+  color: var(--emphasis-color);
+}
+
+p {
+  color: var(--text-color);
+  margin-left: 18em;
+  margin-right: 18em;
+}

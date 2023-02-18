@@ -12,6 +12,7 @@
 
 .logo-title {
   margin: 1em;
+  color: var(--title-color);
 }
 
 .navbar-list {
