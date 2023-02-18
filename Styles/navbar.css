@@ -1,0 +1,41 @@
+#navbar-container {
+  background-color: bisque;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navbar-logo {
+  display: flex;
+  align-items: center;
+  margin: 1em;
+}
+
+.logo-title {
+  margin: 1em;
+}
+
+.navbar-list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+
+.navbar-list-item {
+  margin: 1.5em;
+  color: #667085;
+  text-decoration: none;
+}
+
+.navbar-buttons {
+  display: flex;
+  align-items: center;
+  margin: 1.5em;
+}
+
+.navbar-button {
+  border-radius: 5px;
+  padding: 6%;
+  color: aliceblue;
+  background-color: brown;
+  text-decoration: none;
+}
