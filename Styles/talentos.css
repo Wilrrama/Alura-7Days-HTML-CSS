@@ -1,0 +1,35 @@
+.talentos-container {
+  display: flexbox;
+  text-align: center;
+  align-items: center;
+}
+.talentos-titulo {
+  color: var(--emphasis-color);
+  align-items: center;
+  margin-top: 5em;
+  margin-bottom: 1em;
+  font-family: "Inter";
+  font-weight: 500;
+  line-height: 20px;
+  font-size: 15px;
+}
+.talentos-subtitulo {
+  color: var(--title-color);
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: -0.02em;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.talentos-paragrafo {
+  color: var(--text-color);
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  margin-bottom: 60px;
+}
+
+.talentos-img {
+  width: 70em;
+}
