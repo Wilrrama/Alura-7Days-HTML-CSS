@@ -1,0 +1,38 @@
+.metricas-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  margin: 10px;
+}
+
+.metricas {
+  margin: 0auto;
+  margin-top: 30px;
+  width: 280px;
+  height: 190;
+}
+
+.metricas-title {
+  color: var(--emphasis-color);
+  font-size: 3em;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 72px;
+  letter-spacing: -0.02em;
+}
+
+.metricas-subtitle {
+  color: var(--title-color);
+  margin-bottom: 15px;
+  font-family: "Inter";
+  font-weight: 500;
+  line-height: 28px;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.metricas-paragrafo {
+  color: var(--text-color);
+  margin: 1px;
+}
